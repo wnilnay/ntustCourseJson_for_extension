@@ -1,1 +1,408 @@
-
+[
+    {
+        "Semester": "1141",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "113H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1132",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1131",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "112H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1122",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1121",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "111H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1112",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1111",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "110H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1102",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1101",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "109H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1092",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1091",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "108H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1082",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1081",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": true,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "107H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1072",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "1071",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": true
+    },
+    {
+        "Semester": "106H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1062",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1061",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "105H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1052",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1051",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "104H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1042",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1041",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "103H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1032",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1031",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "102H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1022",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1021",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "101H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1012",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1011",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "100H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1002",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "1001",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "99 H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "99 2",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "99 1",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "98 H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "98 2",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "98 1",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "97 H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "97 2",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "97 1",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "96 H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "96 2",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "96 1",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "95 H",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "95 2",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    },
+    {
+        "Semester": "95 1",
+        "Static": false,
+        "LoginEnable": false,
+        "ShowRemind": false,
+        "CurrentSemester": false
+    }
+]
